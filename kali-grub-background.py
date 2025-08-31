@@ -67,7 +67,10 @@ files = {
     "desktop-grub.png": "/usr/share/images/desktop-base/desktop-grub.png",
     "desktop-background": "/usr/share/images/desktop-base/desktop-background",
     "default": "/usr/share/images/desktop-base/default",
-    "kali-tiles-16x9.jpg": "/usr/share/backgrounds/kali/kali-tiles-16x9.jpg"
+    "kali-tiles-16x9.jpg": "/usr/share/backgrounds/kali/kali-tiles-16x9.jpg",
+    "login-background.svg": "/usr/share/images/desktop-base",
+    "login-background": "/usr/share/backgrounds/kali",
+    "login.svg": "/usr/share/backgrounds/kali"
 }
 
 print(Fore.CYAN + "📷 الصور المستهدفة:")
